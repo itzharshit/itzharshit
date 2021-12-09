@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/itzharshit](GitHub.com/itzharshit)
 
-- 📫 How to reach me **itsharshit@yandex.com**
+- 📫 How to reach me **info@harshitshrivastav.me**
 
 - ⚡ Fun fact **Everyone thinks that I am noob.**
 
