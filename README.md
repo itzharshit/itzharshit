@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">An android developer at Amazon Appstore.</h3>
+<h3 align="center">An android developer at Amazon Appstore and telegram bot kanger 😆.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzharshit&label=Profile%20views&color=0e75b6&style=flat" alt="itzharshit" /> </p>
 
