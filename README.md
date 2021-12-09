@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **info@harshitshrivastav.me**
 
-- ⚡ Fun fact **Everyone thinks that I am noob.**
+- ⚡ Fun fact **Enemy of @ajtimepyro.**
 
 <p align="left">
 </p>
