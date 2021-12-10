@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">An android developer at Amazon Appstore and telegram bot kanger 😆.</h3>
 
-[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F44336&size=26&center=true&vCenter=true&width=413&height=150&lines=Harshit+Shrivastav;Android+App+Developer;Telegram+Bot+Developer+i+mean+kanger+🤫)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F44336&size=26&center=true&vCenter=true&width=413&height=150&lines=Harshit+Shrivastav;Android+App+Developer;Telegram+Bot+Developer+i+mean+kanger+🤫)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzharshit&label=Profile%20views&color=0e75b6&style=flat" alt="itzharshit" /> </p>
 
 
