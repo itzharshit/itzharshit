@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Natasha Group manager bot**
 
-- 🌱 I’m currently learning **GoLang,Rubi**
+- 🌱 I’m currently learning **GoLang, Ruby**
 
 - 👯 I’m looking to collaborate on **Natasha bot**
 
 - 👨‍💻 All of my projects are available at [GitHub.com/itzharshit](GitHub.com/itzharshit)
 
-- 📫 How to reach me **info@harshitshrivastav.me**
+- 📫 How to reach me **info@harshitshrivastav.eu.org**
 
 - ⚡ Fun fact **Enemy of @ajtimepyro.**
 
