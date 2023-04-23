@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Natasha bot**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/itz-harshit](GitHub.com/itz-harshit)
+- 👨‍💻 All of my projects are available at [GitHub.com/itz-harshit](https://github.com/itz-harshit)
 
 - 📫 How to reach me **info@harshitshrivastav.me**
 
