@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzharshit" alt="itzharshit" /></a> </p>
 
-- 🔭 I’m currently working on **Natasha Group manager bot**
+- 🔭 I’m currently working on **Web development.**
 
 - 🌱 I’m currently learning **GoLang, Ruby**
 
 - 👯 I’m looking to collaborate on **Natasha bot**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/itzharshit](GitHub.com/itzharshit)
+- 👨‍💻 All of my projects are available at [GitHub.com/itz-harshit](GitHub.com/itz-harshit)
 
-- 📫 How to reach me **info@harshitshrivastav.eu.org**
+- 📫 How to reach me **info@harshitshrivastav.me**
 
-- ⚡ Fun fact **Enemy of @ajtimepyro.**
 
 <p align="left">
 </p>
