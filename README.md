@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">An android developer at Amazon Appstore and Python Lover.</h3>
+<h3 align="center">I am currently not active on GitHub</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=red&size=26&center=true&vCenter=true&width=413&height=150&lines=Harshit+Shrivastav;Android+App+Developer;Telegram+Bot+Developer;Web+Developer)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzharshit&label=Profile%20views&color=0e75b6&style=flat" alt="itzharshit" /> </p>
